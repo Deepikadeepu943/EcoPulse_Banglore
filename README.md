@@ -2,9 +2,14 @@
 Team: Code4Planets | Lead: Deepika M
 
 This repository contains the 7-slide project demo for NASA Space Apps 2025 and supporting material.
-- Demo: `EcoPulse_Demo.pdf`
+- Demo: `EcoPulse_Banglore.pdf`
 - Summary: Uses NASA POWER + local data (BBMP, BWSSB, CPCB) to analyze Waste, Water, and Climate.
-- Contact: <your email or GitHub profile>
+- Contact: <deepika.muniraj2k@gmail.com>
 
-License: Public domain / CC BY (choose what you prefer)
+License
+This project is licensed under the **Creative Commons Attribution (CC BY 4.0)** License.  
+You are free to share and adapt the material as long as proper credit is given to the creator.  
+
+© 2025 Deepika M | Code4Planets
+
 
